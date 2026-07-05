@@ -3,7 +3,6 @@
 import os
 import sys
 
-#Temporary comment
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'notesapp.settings')
